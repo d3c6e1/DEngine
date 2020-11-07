@@ -43,10 +43,10 @@
     <None Include="textures\marble">
       <Filter>Textures</Filter>
     </None>
-    <None Include="shaders\texture.frag">
+    <None Include="shaders\texture.vert">
       <Filter>Shaders</Filter>
     </None>
-    <None Include="shaders\texture.vert">
+    <None Include="shaders\texture.frag">
       <Filter>Shaders</Filter>
     </None>
   </ItemGroup>
