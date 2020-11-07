@@ -40,8 +40,7 @@ int main()
     }
 
     // Компилирование нашей шейдерной программы
-
-	Shader ourShader("shaders/texture.vs", "shaders/texture.fs");
+	Shader ourShader("shaders/texture.vert", "shaders/texture.frag");
 
     // Указывание вершин (и буферов) и настройка вершинных атрибутов
     float vertices[] = {
